@@ -1,5 +1,9 @@
 extends ../layout.pug
 
-block content 
-  .d-flex.d-flex-row.content.mx-auto
-    .flex-fill tweet 
+block content
+  div(class="d-flex flex-row content mx-auto")      
+    div(class="flex-fill d-flex flex-column")
+      if tweets
+        each tweet in tweets
+          div(class="card tweet-element mb-3")
+            div(class="card-body")= tweet.content
