@@ -1,0 +1,16 @@
+"filename", "language", "JavaScript", "JSON", "Pug", "CSS", "comment", "blank", "total"
+"d:\twitter\database\index.js", "JavaScript", 7, 0, 0, 0, 0, 2, 9
+"d:\twitter\database\models\tweet.model.js", "JavaScript", 12, 0, 0, 0, 0, 3, 15
+"d:\twitter\index.js", "JavaScript", 15, 0, 0, 0, 0, 5, 20
+"d:\twitter\package-lock.json", "JSON", 0, 930, 0, 0, 0, 1, 931
+"d:\twitter\package.json", "JSON", 0, 18, 0, 0, 0, 1, 19
+"d:\twitter\public\css\app.css", "CSS", 0, 0, 0, 20, 0, 6, 26
+"d:\twitter\routes\api.js", "JavaScript", 4, 0, 0, 0, 0, 3, 7
+"d:\twitter\routes\api.tweets.js", "JavaScript", 16, 0, 0, 0, 0, 3, 19
+"d:\twitter\routes\index.js", "JavaScript", 13, 0, 0, 0, 0, 5, 18
+"d:\twitter\views\home.pug", "Pug", 0, 0, 3, 0, 0, 1, 4
+"d:\twitter\views\includes\topbar.pug", "Pug", 0, 0, 11, 0, 0, 1, 12
+"d:\twitter\views\layout.pug", "Pug", 0, 0, 15, 0, 1, 4, 20
+"d:\twitter\views\tweets\tweet-form.pug", "Pug", 0, 0, 15, 0, 0, 1, 16
+"d:\twitter\views\tweets\tweet-list.pug", "Pug", 0, 0, 8, 0, 0, 1, 9
+"Total", "-", 67, 948, 52, 20, 1, 37, 1125
